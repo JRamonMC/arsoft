@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<p:programa xmlns:p="http://www.example.org/ejercicio1-2"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.example.org/ejercicio1-2 Ejercicio1-2.xsd "
+	id="amores-verdaderos">
+	<p:nombre>Amores verdaderos</p:nombre>
+	<p:URLprograma>http://www.rtve.es/m/alacarta/videos/amores-verdaderos/?media=tve</p:URLprograma>
+	<p:URLimagen>http://img.rtve.es/imagenes/amores-verdaderos/1348836290619.jpg</p:URLimagen>
+</p:programa>

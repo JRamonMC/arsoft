@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:favoritos xmlns:ns2="http://www.example.org/ejercicio1-2">
+	<ns2:id>4723d8f6-0a5f-4b05-be21-2b01558baf1b</ns2:id>
+	<ns2:programas>
+		<identificador>aqui-la-tierra</identificador>
+		<nombre>Aquí la Tierra</nombre>
+	</ns2:programas>
+</ns2:favoritos>

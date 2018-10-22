@@ -1,0 +1,23 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	targetNamespace="http://www.example.org/ejercicio1-2" xmlns="http://www.example.org/ejercicio1-2"
+	elementFormDefault="qualified">
+
+	<xs:complexType name="tipo_emision">
+		<xs:attribute name="titulo" type="xs:string" />
+		<xs:attribute name="fecha" type="xs:date" />
+		<xs:attribute name="tiempo" type="xs:time" />
+		<xs:attribute name="URL" type="xs:string" />
+	</xs:complexType>
+
+	<xs:element name="programa">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="nombre" type="xs:string" />
+				<xs:element name="URLprograma" type="xs:string" />
+				<xs:element name="URLimagen" type="xs:string" />
+				<xs:element name="emision" type="tipo_emision" minOccurs="0" maxOccurs="unbounded" />
+			</xs:sequence>
+			<xs:attribute name="id" type="xs:string" />
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

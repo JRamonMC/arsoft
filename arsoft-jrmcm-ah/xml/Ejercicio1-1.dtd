@@ -1,0 +1,15 @@
+ <!ELEMENT programa (nombre, URLprograma, URLimagen, emision+)> 
+ <!ELEMENT identificador (#PCDATA)>
+ <!ELEMENT nombre (#PCDATA)>
+ <!ELEMENT URLprograma (#PCDATA)>
+ <!ELEMENT URLimagen (#PCDATA)>
+ <!ELEMENT emision EMPTY>
+
+<!ATTLIST programa
+		id CDATA #REQUIRED>
+
+ <!ATTLIST emision
+ 		titulo CDATA #REQUIRED
+		fecha CDATA #REQUIRED
+		tiempo CDATA #REQUIRED
+		URL CDATA #REQUIRED>

@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<p:programa xmlns:p="http://www.example.org/ejercicio1-2"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.example.org/ejercicio1-2 Ejercicio1-2.xsd "
+	id="alaska-y-segura">
+	<p:nombre>Alaska y Segura</p:nombre>
+	<p:URLprograma>http://www.rtve.es/m/alacarta/videos/alaska-y-segura/?media=tve</p:URLprograma>
+	<p:URLimagen>http://img.rtve.es/imagenes/alaska-segura/1423649639233.png</p:URLimagen>
+	<p:emision titulo="Viva Buñuel" fecha="2015-05-25" tiempo="00:1:41"
+		URL="http://www.rtve.es/m/alacarta/videos/alaska-y-segura/alaska-segura-viva-bunuel/3141222/?media=tve"></p:emision>
+	<p:emision titulo="Danzad malditos" fecha="2015-05-18"
+		tiempo="00:1:22"
+		URL="http://www.rtve.es/m/alacarta/videos/alaska-y-segura/alaska-segura-danzad-malditos/3132849/?media=tve"></p:emision>
+	<p:emision titulo="La primera vez" fecha="2015-05-11" tiempo="00:1:41"
+		URL="http://www.rtve.es/m/alacarta/videos/alaska-y-segura/alaska-segura-primera-vez/3124180/?media=tve"></p:emision>
+	<p:emision titulo="La noche de los muertos vivientes" fecha="2015-05-04"
+		tiempo="00:1:25"
+		URL="http://www.rtve.es/m/alacarta/videos/alaska-y-segura/alaska-segura-noche-muertos-vivientes/3115898/?media=tve"></p:emision>
+	<p:emision titulo="La bola de cristal" fecha="2015-04-20"
+		tiempo="00:1:41"
+		URL="http://www.rtve.es/m/alacarta/videos/alaska-y-segura/alaska-segura-bola-cristal/3099462/?media=tve"></p:emision>
+	<p:emision titulo="La ley de la calle" fecha="2015-04-13"
+		tiempo="00:1:18"
+		URL="http://www.rtve.es/m/alacarta/videos/alaska-y-segura/alaska-segura-ley-calle/3089328/?media=tve"></p:emision>
+	<p:emision titulo="Fan fatal" fecha="2015-04-06" tiempo="00:1:14"
+		URL="http://www.rtve.es/m/alacarta/videos/alaska-y-segura/alaska-segura-fan-fatal/3077898/?media=tve"></p:emision>
+	<p:emision titulo="Karaoke Kid" fecha="2015-03-30" tiempo="00:1:18"
+		URL="http://www.rtve.es/m/alacarta/videos/alaska-y-segura/alaska-segura-karaoke-kid/3069819/?media=tve"></p:emision>
+</p:programa>

@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<p:programa xmlns:p="http://www.example.org/ejercicio1-2"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.example.org/ejercicio1-2 Ejercicio1-2.xsd "
+	id="aguila-roja">
+	<p:nombre>Águila Roja</p:nombre>
+	<p:URLprograma>http://www.rtve.es/m/alacarta/videos/el-siglo-de-aguila-roja/?media=tve</p:URLprograma>
+	<p:URLimagen>http://img.rtve.es/imagenes/aguila-roja/1412769760573.png</p:URLimagen>
+	<p:emision titulo="T9 - Capítulo 116" fecha="2016-10-27"
+		tiempo="01:27:40"
+		URL="http://www.rtve.es/m/alacarta/videos/aguila-roja/aguila-roja-t9-capitulo-116/3771566/?media=tve"></p:emision>
+	<p:emision titulo="T9 - Capítulo 115" fecha="2016-10-20"
+		tiempo="01:21:25"
+		URL="http://www.rtve.es/m/alacarta/videos/aguila-roja/aguila-roja-t9-capitulo-115/3763280/?media=tve"></p:emision>
+	<p:emision titulo="T9 - Capítulo 114" fecha="2016-10-13"
+		tiempo="01:16:39"
+		URL="http://www.rtve.es/m/alacarta/videos/aguila-roja/aguila-roja-t9-capitulo-114/3752919/?media=tve"></p:emision>
+	<p:emision titulo="T9 - Capítulo 113" fecha="2016-10-06"
+		tiempo="01:18:45"
+		URL="http://www.rtve.es/m/alacarta/videos/aguila-roja/aguila-roja-t9-capitulo-113/3745187/?media=tve"></p:emision>
+	<p:emision titulo="T9 - Capítulo 112" fecha="2016-09-29"
+		tiempo="01:18:43"
+		URL="http://www.rtve.es/m/alacarta/videos/aguila-roja/aguila-roja-t9-capitulo-112/3736718/?media=tve"></p:emision>
+	<p:emision titulo="T9 - Capítulo 111" fecha="2016-09-22"
+		tiempo="01:19:10"
+		URL="http://www.rtve.es/m/alacarta/videos/aguila-roja/aguila-roja-t9-capitulo-111/3728076/?media=tve"></p:emision>
+	<p:emision titulo="T9 - Capítulo 110" fecha="2016-09-15"
+		tiempo="01:18:11"
+		URL="http://www.rtve.es/m/alacarta/videos/aguila-roja/aguila-roja-t9-capitulo-110/3719743/?media=tve"></p:emision>
+	<p:emision titulo="T9 - Capítulo 109" fecha="2016-07-19"
+		tiempo="01:19:07"
+		URL="http://www.rtve.es/m/alacarta/videos/aguila-roja/aguila-roja-t9-capitulo-109/3664155/?media=tve"></p:emision>
+	<p:producto ASIN="B01M3SFI3A" Titulo="Águila Roja Serie Completa DVD"
+		urlImgSmall="https://images-eu.ssl-images-amazon.com/images/I/51C4HToxVXL._SL75_.jpg"
+		urlImgLarge="https://images-eu.ssl-images-amazon.com/images/I/51C4HToxVXL.jpg"
+		Precio="EUR 127,00"
+		URL="https://www.amazon.es/%C3%81guila-Roja-Serie-Completa-DVD/dp/B01M3SFI3A?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B01M3SFI3A"></p:producto>
+	<p:producto ASIN="B01MFA8ZRR" Titulo="Águila Roja Temporada 9 DVD"
+		urlImgSmall="https://images-eu.ssl-images-amazon.com/images/I/51KZ2jXorwL._SL75_.jpg"
+		urlImgLarge="https://images-eu.ssl-images-amazon.com/images/I/51KZ2jXorwL.jpg"
+		Precio="EUR 28,92"
+		URL="https://www.amazon.es/%C3%81guila-Roja-Temporada-9-DVD/dp/B01MFA8ZRR?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B01MFA8ZRR"></p:producto>
+	<p:producto ASIN="B006ZVONAQ" Titulo="Aguila Roja DVD David Janer"
+		urlImgSmall="https://images-eu.ssl-images-amazon.com/images/I/51d89cIVORL._SL75_.jpg"
+		urlImgLarge="https://images-eu.ssl-images-amazon.com/images/I/51d89cIVORL.jpg"
+		Precio="EUR 8,11"
+		URL="https://www.amazon.es/Aguila-Roja-DVD-David-Janer/dp/B006ZVONAQ?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B006ZVONAQ"></p:producto>
+</p:programa>

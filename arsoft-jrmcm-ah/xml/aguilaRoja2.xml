@@ -1,0 +1,431 @@
+<?xml version="1.0" ?>
+<ItemSearchResponse
+	xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
+	<OperationRequest>
+		<HTTPHeaders>
+			<Header Name="UserAgent"
+				Value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.1 Safari/603.1.30"></Header>
+		</HTTPHeaders>
+		<RequestId>3aa8f806-7019-4954-99eb-587cdb7374fa</RequestId>
+		<Arguments>
+			<Argument Name="AWSAccessKeyId" Value="AKIAJAYMJWKJ3W7LP7UQ"></Argument>
+			<Argument Name="AssociateTag" Value="arso"></Argument>
+			<Argument Name="Keywords" Value="aguila-roja"></Argument>
+			<Argument Name="Operation" Value="ItemSearch"></Argument>
+			<Argument Name="SearchIndex" Value="DVD"></Argument>
+			<Argument Name="Service" Value="AWSECommerceService"></Argument>
+			<Argument Name="Timestamp" Value="2017-05-03T15:07:08Z"></Argument>
+			<Argument Name="Signature"
+				Value="GgPWQdihLgLD2bL+rAtJijkO0d8MYI2aVDOjDLYaVk8="></Argument>
+		</Arguments>
+		<RequestProcessingTime>0.2396267160000000</RequestProcessingTime>
+	</OperationRequest>
+	<Items>
+		<Request>
+			<IsValid>True</IsValid>
+			<ItemSearchRequest>
+				<Keywords>aguila-roja</Keywords>
+				<ResponseGroup>Small</ResponseGroup>
+				<SearchIndex>DVD</SearchIndex>
+			</ItemSearchRequest>
+		</Request>
+		<TotalResults>22</TotalResults>
+		<TotalPages>3</TotalPages>
+		<MoreSearchResultsUrl>https://www.amazon.es/gp/search?linkCode=xm2&amp;SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;keywords=aguila-roja&amp;tag=arso&amp;creative=165953&amp;url=search-alias%3Ddvd&amp;camp=2025
+		</MoreSearchResultsUrl>
+		<Item>
+			<ASIN>B007XCUMU6</ASIN>
+			<DetailPageURL>https://www.amazon.es/Aguila-Roja-Blu-ray-David-Janer/dp/B007XCUMU6?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B007XCUMU6
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>https://www.amazon.es/gp/registry/wishlist/add-item.html?asin.0=B007XCUMU6&amp;SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B007XCUMU6
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>https://www.amazon.es/gp/pdp/taf/B007XCUMU6?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B007XCUMU6
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>https://www.amazon.es/review/product/B007XCUMU6?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B007XCUMU6
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>https://www.amazon.es/gp/offer-listing/B007XCUMU6?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B007XCUMU6
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Actor>David Janer</Actor>
+				<Actor>Javier Gutiérrez</Actor>
+				<Actor>Inma Cuesta</Actor>
+				<Actor>Martina Klein</Actor>
+				<Actor>Francis Lorenzo</Actor>
+				<Creator Role="Colaborador principal">David Janer</Creator>
+				<Creator Role="Colaborador principal">Javier Gutiérrez</Creator>
+				<Creator Role="Productor">Daniel Écija</Creator>
+				<Director>José Ramón Ayerra</Director>
+				<Manufacturer>T.C.F.H.E. España, S.A.</Manufacturer>
+				<ProductGroup>DVD</ProductGroup>
+				<Title>Aguila Roja [Blu-ray]</Title>
+			</ItemAttributes>
+		</Item>
+		<Item>
+			<ASIN>B006ZVONAQ</ASIN>
+			<DetailPageURL>https://www.amazon.es/Aguila-Roja-DVD-David-Janer/dp/B006ZVONAQ?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B006ZVONAQ
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>https://www.amazon.es/gp/registry/wishlist/add-item.html?asin.0=B006ZVONAQ&amp;SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B006ZVONAQ
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>https://www.amazon.es/gp/pdp/taf/B006ZVONAQ?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B006ZVONAQ
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>https://www.amazon.es/review/product/B006ZVONAQ?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B006ZVONAQ
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>https://www.amazon.es/gp/offer-listing/B006ZVONAQ?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B006ZVONAQ
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Actor>David Janer</Actor>
+				<Actor>Inma Cuesta</Actor>
+				<Actor>Javier Gutierrez</Actor>
+				<Actor>Martina Klein</Actor>
+				<Actor>Francis Lorenzo</Actor>
+				<Creator Role="Colaborador principal">David Janer</Creator>
+				<Creator Role="Colaborador principal">Inma Cuesta</Creator>
+				<Creator Role="Productor">Daniel Écija</Creator>
+				<Director>José Ramón Ayerra</Director>
+				<Manufacturer>Twentieth Century Fox</Manufacturer>
+				<ProductGroup>DVD</ProductGroup>
+				<Title>Aguila Roja [DVD]</Title>
+			</ItemAttributes>
+		</Item>
+		<Item>
+			<ASIN>B01MFA8ZRR</ASIN>
+			<DetailPageURL>https://www.amazon.es/%C3%81guila-Roja-Temporada-9-DVD/dp/B01MFA8ZRR?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B01MFA8ZRR
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>https://www.amazon.es/gp/registry/wishlist/add-item.html?asin.0=B01MFA8ZRR&amp;SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B01MFA8ZRR
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>https://www.amazon.es/gp/pdp/taf/B01MFA8ZRR?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B01MFA8ZRR
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>https://www.amazon.es/review/product/B01MFA8ZRR?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B01MFA8ZRR
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>https://www.amazon.es/gp/offer-listing/B01MFA8ZRR?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B01MFA8ZRR
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Actor>David Janer</Actor>
+				<Actor>Javier Gutiérrez</Actor>
+				<Actor>Francis Lorenzo</Actor>
+				<Actor>Inma Cuesta</Actor>
+				<Actor>Miryam Gallego</Actor>
+				<Creator Role="Colaborador principal">David Janer</Creator>
+				<Creator Role="Colaborador principal">Javier Gutiérrez</Creator>
+				<Director>Varios</Director>
+				<Manufacturer>Divisa HV</Manufacturer>
+				<ProductGroup>DVD</ProductGroup>
+				<Title>Águila Roja - Temporada 9 [DVD]</Title>
+			</ItemAttributes>
+		</Item>
+		<Item>
+			<ASIN>B004YBO764</ASIN>
+			<DetailPageURL>https://www.amazon.es/%C3%81guila-Roja-2%C2%AA-Temporada-DVD/dp/B004YBO764?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B004YBO764
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>https://www.amazon.es/gp/registry/wishlist/add-item.html?asin.0=B004YBO764&amp;SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B004YBO764
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>https://www.amazon.es/gp/pdp/taf/B004YBO764?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B004YBO764
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>https://www.amazon.es/review/product/B004YBO764?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B004YBO764
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>https://www.amazon.es/gp/offer-listing/B004YBO764?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B004YBO764
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Actor>David Janer</Actor>
+				<Actor>Javier Gutierrez</Actor>
+				<Actor>Francis Lorenzo</Actor>
+				<Actor>Myriam Gallego</Actor>
+				<Actor>Inma Cuesta</Actor>
+				<Creator Role="Colaborador principal">David Janer</Creator>
+				<Creator Role="Colaborador principal">Javier Gutierrez</Creator>
+				<Director>Jose Ramon Ayerra^Marco</Director>
+				<Manufacturer>Divisa Red, S.A.U.</Manufacturer>
+				<ProductGroup>DVD</ProductGroup>
+				<Title>Águila Roja (2ª Temporada) [DVD]</Title>
+			</ItemAttributes>
+		</Item>
+		<Item>
+			<ASIN>B01M3SFI3A</ASIN>
+			<DetailPageURL>https://www.amazon.es/%C3%81guila-Roja-Serie-Completa-DVD/dp/B01M3SFI3A?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B01M3SFI3A
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>https://www.amazon.es/gp/registry/wishlist/add-item.html?asin.0=B01M3SFI3A&amp;SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B01M3SFI3A
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>https://www.amazon.es/gp/pdp/taf/B01M3SFI3A?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B01M3SFI3A
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>https://www.amazon.es/review/product/B01M3SFI3A?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B01M3SFI3A
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>https://www.amazon.es/gp/offer-listing/B01M3SFI3A?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B01M3SFI3A
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Actor>David Janer</Actor>
+				<Actor>Javier Gutiérrez</Actor>
+				<Actor>Francis Lorenzo</Actor>
+				<Actor>Inma Cuesta</Actor>
+				<Actor>Miryam Gallego</Actor>
+				<Creator Role="Colaborador principal">David Janer</Creator>
+				<Creator Role="Colaborador principal">Javier Gutiérrez</Creator>
+				<Director>Varios</Director>
+				<Manufacturer>Divisa HV</Manufacturer>
+				<ProductGroup>DVD</ProductGroup>
+				<Title>Águila Roja - Serie Completa [DVD]</Title>
+			</ItemAttributes>
+		</Item>
+		<Item>
+			<ASIN>B0197ZVVHY</ASIN>
+			<DetailPageURL>https://www.amazon.es/%C3%81guila-Roja-Temporada-8-DVD/dp/B0197ZVVHY?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B0197ZVVHY
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>https://www.amazon.es/gp/registry/wishlist/add-item.html?asin.0=B0197ZVVHY&amp;SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B0197ZVVHY
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>https://www.amazon.es/gp/pdp/taf/B0197ZVVHY?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B0197ZVVHY
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>https://www.amazon.es/review/product/B0197ZVVHY?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B0197ZVVHY
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>https://www.amazon.es/gp/offer-listing/B0197ZVVHY?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B0197ZVVHY
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Actor>David Janer</Actor>
+				<Actor>Javier Gutiérrez</Actor>
+				<Actor>Francis Lorenzo</Actor>
+				<Actor>Inma Cuesta</Actor>
+				<Actor>Miryam Gallego</Actor>
+				<Creator Role="Colaborador principal">David Janer</Creator>
+				<Creator Role="Colaborador principal">Javier Gutiérrez</Creator>
+				<Director>Varios</Director>
+				<Manufacturer>Divisa HV</Manufacturer>
+				<ProductGroup>DVD</ProductGroup>
+				<Title>Águila Roja - Temporada 8 [DVD]</Title>
+			</ItemAttributes>
+		</Item>
+		<Item>
+			<ASIN>B00YOLP8BW</ASIN>
+			<DetailPageURL>https://www.amazon.es/%C3%81guila-Roja-Temporada-7-DVD/dp/B00YOLP8BW?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00YOLP8BW
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>https://www.amazon.es/gp/registry/wishlist/add-item.html?asin.0=B00YOLP8BW&amp;SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00YOLP8BW
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>https://www.amazon.es/gp/pdp/taf/B00YOLP8BW?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00YOLP8BW
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>https://www.amazon.es/review/product/B00YOLP8BW?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00YOLP8BW
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>https://www.amazon.es/gp/offer-listing/B00YOLP8BW?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00YOLP8BW
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Actor>David Janer</Actor>
+				<Actor>Javier Gutiérrez</Actor>
+				<Actor>Francis Lorenzo</Actor>
+				<Actor>Inma Cuesta</Actor>
+				<Actor>Pepa Aniorte</Actor>
+				<Creator Role="Colaborador principal">David Janer</Creator>
+				<Creator Role="Colaborador principal">Javier Gutiérrez</Creator>
+				<Director>Daniel Écija</Director>
+				<Manufacturer>Divisa HV</Manufacturer>
+				<ProductGroup>DVD</ProductGroup>
+				<Title>Águila Roja - Temporada 7 [DVD]</Title>
+			</ItemAttributes>
+		</Item>
+		<Item>
+			<ASIN>B00GLMOES0</ASIN>
+			<DetailPageURL>https://www.amazon.es/%C3%81guila-Roja-Temporada-5-DVD/dp/B00GLMOES0?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00GLMOES0
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>https://www.amazon.es/gp/registry/wishlist/add-item.html?asin.0=B00GLMOES0&amp;SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00GLMOES0
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>https://www.amazon.es/gp/pdp/taf/B00GLMOES0?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00GLMOES0
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>https://www.amazon.es/review/product/B00GLMOES0?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00GLMOES0
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>https://www.amazon.es/gp/offer-listing/B00GLMOES0?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00GLMOES0
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Actor>David Janer</Actor>
+				<Actor>Francis Lorenzo</Actor>
+				<Actor>Inma Cuesta</Actor>
+				<Actor>Miryam Gallego</Actor>
+				<Actor>Javier Gutiérrez</Actor>
+				<Creator Role="Colaborador principal">David Janer</Creator>
+				<Creator Role="Colaborador principal">Francis Lorenzo</Creator>
+				<Director>Daniel Écija</Director>
+				<Manufacturer>Divisa HV</Manufacturer>
+				<ProductGroup>DVD</ProductGroup>
+				<Title>Águila Roja - Temporada 5 [DVD]</Title>
+			</ItemAttributes>
+		</Item>
+		<Item>
+			<ASIN>B00P8Y7768</ASIN>
+			<DetailPageURL>https://www.amazon.es/%C3%81guila-Roja-Temporada-6-DVD/dp/B00P8Y7768?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00P8Y7768
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>https://www.amazon.es/gp/registry/wishlist/add-item.html?asin.0=B00P8Y7768&amp;SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00P8Y7768
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>https://www.amazon.es/gp/pdp/taf/B00P8Y7768?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00P8Y7768
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>https://www.amazon.es/review/product/B00P8Y7768?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00P8Y7768
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>https://www.amazon.es/gp/offer-listing/B00P8Y7768?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B00P8Y7768
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Manufacturer>Divisa HV</Manufacturer>
+				<ProductGroup>DVD</ProductGroup>
+				<Title>Águila Roja - Temporada 6 [DVD]</Title>
+			</ItemAttributes>
+		</Item>
+		<Item>
+			<ASIN>B005WHSMQ0</ASIN>
+			<DetailPageURL>https://www.amazon.es/%C3%81guila-Roja-Temporada-3-DVD/dp/B005WHSMQ0?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B005WHSMQ0
+			</DetailPageURL>
+			<ItemLinks>
+				<ItemLink>
+					<Description>Add To Wishlist</Description>
+					<URL>https://www.amazon.es/gp/registry/wishlist/add-item.html?asin.0=B005WHSMQ0&amp;SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B005WHSMQ0
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>Tell A Friend</Description>
+					<URL>https://www.amazon.es/gp/pdp/taf/B005WHSMQ0?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B005WHSMQ0
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Customer Reviews</Description>
+					<URL>https://www.amazon.es/review/product/B005WHSMQ0?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B005WHSMQ0
+					</URL>
+				</ItemLink>
+				<ItemLink>
+					<Description>All Offers</Description>
+					<URL>https://www.amazon.es/gp/offer-listing/B005WHSMQ0?SubscriptionId=AKIAJAYMJWKJ3W7LP7UQ&amp;tag=arso&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B005WHSMQ0
+					</URL>
+				</ItemLink>
+			</ItemLinks>
+			<ItemAttributes>
+				<Actor>Roger Berruezo</Actor>
+				<Actor>Javier Gutiérrez</Actor>
+				<Actor>Patrick Criado</Actor>
+				<Actor>Marta Aledo</Actor>
+				<Actor>Roberto Álamo</Actor>
+				<Creator Role="Colaborador principal">Roger Berruezo</Creator>
+				<Creator Role="Colaborador principal">Javier Gutiérrez</Creator>
+				<Director>Marc Vigil</Director>
+				<Manufacturer>Divisa Home Video</Manufacturer>
+				<ProductGroup>DVD</ProductGroup>
+				<Title>Águila Roja - Temporada 3 [DVD]</Title>
+			</ItemAttributes>
+		</Item>
+	</Items>
+</ItemSearchResponse>

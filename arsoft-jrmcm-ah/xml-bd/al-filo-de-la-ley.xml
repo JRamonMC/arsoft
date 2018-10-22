@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<p:programa xmlns:p="http://www.example.org/ejercicio1-2"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.example.org/ejercicio1-2 Ejercicio1-2.xsd "
+	id="al-filo-de-la-ley">
+	<p:nombre>Al filo de la ley </p:nombre>
+	<p:URLprograma>http://www.rtve.es/m/alacarta/videos/al-filo-de-la-ley/?media=tve</p:URLprograma>
+	<p:URLimagen>http://img.rtve.es/imagenes/filo-ley/1342163122146.jpg</p:URLimagen>
+	<p:emision titulo="Fantasmas del pasado" fecha="2012-09-15"
+		tiempo="00:1:04"
+		URL="http://www.rtve.es/m/alacarta/videos/al-filo-de-la-ley/filo-ley-fantasmas-del-pasado/1528105/?media=tve"></p:emision>
+	<p:emision titulo="Un gran equipo" fecha="2012-09-08" tiempo="00:1:03"
+		URL="http://www.rtve.es/m/alacarta/videos/al-filo-de-la-ley/filo-ley/1523206/?media=tve"></p:emision>
+	<p:emision titulo="Una mujer pública" fecha="2012-09-08"
+		tiempo="00:1:00"
+		URL="http://www.rtve.es/m/alacarta/videos/al-filo-de-la-ley/filo-ley-mujer-publica/1523202/?media=tve"></p:emision>
+	<p:emision titulo="Adiós a la inocencia" fecha="2012-09-01"
+		tiempo="00:59:59"
+		URL="http://www.rtve.es/m/alacarta/videos/al-filo-de-la-ley/filo-ley-adios-inocencia/1517943/?media=tve"></p:emision>
+	<p:emision titulo="El sexo de los abogados" fecha="2012-08-25"
+		tiempo="00:1:04"
+		URL="http://www.rtve.es/m/alacarta/videos/al-filo-de-la-ley/filo-ley-sexo-abogados/1513363/?media=tve"></p:emision>
+	<p:emision titulo="Secuestro" fecha="2012-08-17" tiempo="00:1:00"
+		URL="http://www.rtve.es/m/alacarta/videos/al-filo-de-la-ley/filo-ley-secuestro/1508499/?media=tve"></p:emision>
+	<p:emision titulo="Esos juegos" fecha="2012-08-11" tiempo="00:1:01"
+		URL="http://www.rtve.es/m/alacarta/videos/al-filo-de-la-ley/filo-ley-esos-juegos/1504382/?media=tve"></p:emision>
+	<p:emision titulo="Hermanos de sangre" fecha="2012-08-04"
+		tiempo="00:1:02"
+		URL="http://www.rtve.es/m/alacarta/videos/al-filo-de-la-ley/filo-ley-hermanos-sangre/1498608/?media=tve"></p:emision>
+</p:programa>
